@@ -5,7 +5,7 @@ Huge media companies increasingly control radio stations across the US. Take bac
 ## BILL OF MATERIALS  
 
 | DESCRIPTION | QTY | $$ | VENDOR |
-|---|---|---|---|
+|:---|:---|:---|:---|
 | [FM Transmitter kit](https://www.canakit.com/universal-fm-transmitter-with-mic-and-line-inputs-kit-ck108-uk108.html) | 1 | $16.95 | CanaKit |
 | [M3x6mm bolt stainless steel](https://www.mcmaster.com/92095a179) | 4 | $5.06 (for 100) | McMaster Carr |
 | [Rubber feet](https://www.mcmaster.com/95495k719) | 1 | $3.00 (for 50) | McMaster Carr |
